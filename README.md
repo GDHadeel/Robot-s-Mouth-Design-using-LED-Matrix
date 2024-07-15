@@ -6,16 +6,9 @@
 
 This repository features the design of a robot's mouth using an LED matrix controlled by an Arduino. The LED matrix is driven by a MAX7219 controller, facilitating the display of various patterns.
 
-
 ## Demo
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ef39f327-28fc-486a-92ff-a26615d6bdbb" width="600" height="400">
-</p>
-
 https://github.com/user-attachments/assets/ef39f327-28fc-486a-92ff-a26615d6bdbb
-
-
 
 ## Components Used
 
