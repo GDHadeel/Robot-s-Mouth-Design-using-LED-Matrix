@@ -1,6 +1,6 @@
 # Robot-s-Mouth-Design-using-LED-Matrix
 
-# Task 4: ESP32 Electronic Circuit with Sensor Integration
+# Task 4: Designing the robot's mouth using an LED matrix
 
 ## Description
 
