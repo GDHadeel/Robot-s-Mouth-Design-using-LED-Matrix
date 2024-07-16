@@ -23,5 +23,6 @@ https://github.com/user-attachments/assets/33697515-bf62-4023-9ea2-ccaa0b440550
 
 ## Acknowledgements
 
-https://www.youtube.com/watch?v=k73RCL_OQKk
+https://wokwi.com/projects/373210641309244417
 
+https://randomnerdtutorials.com/guide-for-8x8-dot-matrix-max7219-with-arduino-pong-game/
