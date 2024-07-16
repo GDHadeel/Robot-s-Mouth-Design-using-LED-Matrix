@@ -8,7 +8,7 @@ This repository features the design of a robot's mouth using an LED matrix contr
 
 ## Demo
 
-https://github.com/user-attachments/assets/33697515-bf62-4023-9ea2-ccaa0b440550
+https://github.com/user-attachments/assets/7455d031-b0da-4066-9127-5835e6aca625
 
 ## Components Used
 
