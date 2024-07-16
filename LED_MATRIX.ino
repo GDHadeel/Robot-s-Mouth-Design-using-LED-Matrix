@@ -3,7 +3,7 @@
 int DIN = 11;
 int CS =  10;
 int CLK = 13;
-LedControl lc = LedControl(DIN, CLK, CS, 1); 
+LedControl lc = LedControl(DIN, CLK, CS, 0); 
 
 byte circle[8] = {
     B00000000,
